@@ -9,7 +9,7 @@ export default function Home() {
       <section id="inicio" className="h-[80vh] flex flex-col justify-center px-10 md:px-32">
         <div className="space-y-2">
           <span className="text-amber-600 font-mono text-xs tracking-[0.5em] uppercase">
-            Software Engineer // Creative Mind
+            Software developer // Creative Mind
           </span>
           <h1 className="text-7xl md:text-9xl font-black text-white tracking-tighter leading-none uppercase">
             NELSON <br /> <span className="text-zinc-900 stroke-text">DEV.</span>
@@ -30,7 +30,7 @@ export default function Home() {
       </section>
 
       {/* 2. SECCIÓN SKILLS: Tu Panel Técnico */}
-      <section id="skills" className="px-10 md:px-32 py-24 bg-[#080808] border-y border-white/5">
+      <section id="proyectos" className="px-10 md:px-32 py-24 bg-[#080808] border-y border-white/5">
         <h2 className="text-xs font-mono text-zinc-600 uppercase tracking-[0.5em] mb-12 text-center">
           Technical_Stack // 2026
         </h2>
@@ -42,8 +42,8 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 3. SECCIÓN PROYECTOS: Tu Vitrina */}
-      <section id="proyectos" className="p-10 md:p-32 space-y-12">
+      {/* 3. SECCIÓN SKILLS: Tu Vitrina */}
+      <section id="skills" className="p-10 md:p-32 space-y-12">
         <h2 className="text-xs font-mono text-zinc-700 uppercase tracking-[0.5em] mb-12">
           Selected_Works
         </h2>

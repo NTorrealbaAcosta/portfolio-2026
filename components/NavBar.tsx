@@ -17,8 +17,8 @@ export default function NavBar() {
 
         {/* LOS LINKS: El mapa de la galería */}
         <div className="flex gap-8">
-          <NavLink href="#proyectos" label="Proyectos" />
           <NavLink href="#skills" label="Skills" />
+          <NavLink href="#proyectos" label="Proyectos" />
           <NavLink href="#contacto" label="Contacto" />
         </div>
 
