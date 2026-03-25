@@ -30,7 +30,7 @@ export default function Home() {
       </section>
 
       {/* 2. SECCIÓN SKILLS: Tu Panel Técnico */}
-      <section id="proyectos" className="px-10 md:px-32 py-24 bg-[#080808] border-y border-white/5">
+      <section id="skills" className="px-10 md:px-32 py-24 bg-[#080808] border-y border-white/5">
         <h2 className="text-xs font-mono text-zinc-600 uppercase tracking-[0.5em] mb-12 text-center">
           Technical_Stack // 2026
         </h2>
@@ -43,7 +43,7 @@ export default function Home() {
       </section>
 
       {/* 3. SECCIÓN SKILLS: Tu Vitrina */}
-      <section id="skills" className="p-10 md:p-32 space-y-12">
+      <section id="proyectos" className="p-10 md:p-32 space-y-12">
         <h2 className="text-xs font-mono text-zinc-700 uppercase tracking-[0.5em] mb-12">
           Selected_Works
         </h2>
